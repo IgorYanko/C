@@ -1,0 +1,4 @@
+5) Qual erro da linha abaixo
+	printf("Oi Mundo")
+
+O erro é a ausência de ponto e vírgula. Esse erro de sintaxe impede o programa de ser compilado e consequentemente, executado.

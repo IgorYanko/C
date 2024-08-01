@@ -1,0 +1,3 @@
+4) Explique a função PRINTF
+
+A função PRINTF advinda da biblioteca stdio.h, imprime no console textos escritos pelo desenvolvedor. 
